@@ -1,6 +1,6 @@
-## Hi! 👋
+## Hi, I'm Marc! 👋
 
-I'm Marc from the Philippines. I've been working as a fullstack engineer for 8 years (_crazy_)! I have deep passion with technology and always strive to make quality and amazing software. It always amazes me that technology never stops and you need to keep learning every single day!
+From the islands of the Philippines. I've been working as a fullstack engineer for 8 years (_crazy_)! I have deep passion with technology and always strive to make quality and amazing software. It always amazes me that technology never stops and you need to keep learning every single day!
 
 My current tech stacks:
 1. ReactJS
